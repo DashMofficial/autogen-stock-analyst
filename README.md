@@ -3,10 +3,6 @@
 
 This project leverages Microsoft's AutoGen to build an advanced Coding and Stock Analyst. The solution is powered by Qualcomm's **Cloud AI 100 Ultra**, enabling high-performance LLM serving. Explore the [Qualcomm Cloud AI 100 Ultra Playground](http://bit.ly/Qualcomm-CloudAI100Ultra-Playground) to learn more.
 
-## Demo
-Check out the demo video below to see the project in action:
-[![Demo Video]](https://youtu.be/ijHtziG0knY)  
-
 ## Installation
 
 **Install Dependencies**:
